@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <MASM Include="P0_Check.asm" />
+    <MASM Include="P1_Mov.asm" />
+    <MASM Include="P1TEV_Sum_dob_trip.asm" />
+    <MASM Include="P2_Mov_Parte2.asm" />
+    <MASM Include="P3_Mov_Parte3.asm" />
+    <MASM Include="P3_Mov_Parte4.asm" />
+    <MASM Include="P3TEV_Suma_de_Numeros.asm" />
+    <MASM Include="P5_ADD.asm" />
+    <MASM Include="P6_ADD_part2.asm" />
+    <MASM Include="P7_SUB.asm" />
+    <MASM Include="P8_MUL.asm" />
+    <MASM Include="P9_MUL_part2.asm" />
+    <MASM Include="P10_MUL_part3.asm" />
+    <MASM Include="P4_Salario_Trabajador.asm" />
+    <MASM Include="P11_DIV.asm" />
+    <MASM Include="P12_DIV_part2.asm" />
+    <MASM Include="P13_DIV_part3.asm" />
+    <MASM Include="P14_ImpresionTexto.asm" />
+    <MASM Include="P15_ImpresionNumero.asm" />
+    <MASM Include="P16_LecturaNumero.asm" />
+    <MASM Include="P17_Prom3Nums.asm" />
+    <MASM Include="P18_MultialCuadrado.asm" />
+    <MASM Include="P19_Intercambio_Valores.asm" />
+    <MASM Include="P20_Salto_Condicionales_part1.asm" />
+    <MASM Include="P20_Saltos_Condicionales.asm" />
+    <MASM Include="P25_SaltoCond_Ejemplos.asm" />
+    <MASM Include="p26_SaltosComoCiclos.asm" />
+    <MASM Include="P27_ciclos_Parte2.asm" />
+    <MASM Include="P28_CiclosEjemplo.asm" />
+    <MASM Include="P29_TablaMultiplicar.asm" />
+    <MASM Include="P30_Loop.asm" />
+    <MASM Include="P31_LoopNumsPares.asm" />
+    <MASM Include="P32_CiclosAnimados.asm" />
+    <MASM Include="P33_CiclosAnimados_part2.asm" />
+    <MASM Include="P34_CiclosAnimados_parte3.asm" />
+    <MASM Include="P35_UsoVariables.asm" />
+    <MASM Include="P36_UsoVariables_parte2.asm" />
+    <MASM Include="p_37DetenerCicloUsuario.asm" />
+    <MASM Include="P38_SwitchCaseSimulado.asm" />
+    <MASM Include="P_39_switchAnimados.asm" />
+    <MASM Include="PPT11_Hoja_Presentacion.asm" />
+    <MASM Include="PPT12_1Sum_dob_trip.asm" />
+    <MASM Include="PPT12_2_Suma_de_Numeros.asm" />
+    <MASM Include="PPT12_3_Obten_Area_per_Rec_Base_Altura.asm" />
+    <MASM Include="PPT12_4_Trabajador.asm" />
+    <MASM Include="PPT13_1_IMC.asm" />
+    <MASM Include="PPT13_2_Lectura_Numeros_Mayor.asm" />
+    <MASM Include="PPT13_3_Matriz_2x2_Det.asm" />
+    <MASM Include="PPT13_4_Velocidad_Dist_Tiemp.asm" />
+    <MASM Include="PPT14_Pares_1_N_Usuario.asm" />
+    <MASM Include="PPT15_Fibonacci.asm" />
+    <MASM Include="PPT16_Num_Primo_No.asm" />
+    <MASM Include="PPT17_Sumados_numeros_mayor.asm" />
+    <MASM Include="PPT18_Tabla de multiplicar.asm" />
+    <MASM Include="PPT19_Calificaciones.asm" />
+    <MASM Include="PPT20_Num_Ingresado_Val_Nega.asm" />
+    <MASM Include="PPT21_Val_X_N_Cuantos.asm" />
+    <MASM Include="PPT22_Pares_Impares_Mostrar.asm" />
+    <MASM Include="PPT23_NPares.asm" />
+    <MASM Include="PPT24_Manhattan.asm" />
+    <MASM Include="PPT25_Numbin_a_dec.asm" />
+    <MASM Include="protecto_DispensadorRefrescos.asm" />
+  </ItemGroup>
+  <ItemGroup>
+    <Object Include="..\..\..\..\..\..\Irvine\Lib32\Irvine32_Library\Irvine32.obj" />
+  </ItemGroup>
+</Project>
